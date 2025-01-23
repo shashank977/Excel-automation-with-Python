@@ -2,31 +2,57 @@
     "Joe": {
         "math": 65,
         "science": 78,
-        "english": 98,
-        "gym": 89
+        "english": 91,
+        "gym": 89,
+        "gender": "M"
     },
     "Bill": {
         "math": 55,
         "science": 72,
         "english": 87,
-        "gym": 95
+        "gym": 95,
+        "gender": "M"
     },
     "Tim": {
         "math": 100,
         "science": 45,
         "english": 75,
-        "gym": 92
+        "gym": 92,
+        "gender": "M"
     },
     "Sally": {
-        "math": 30,
-        "science": 25,
-        "english": 45,
-        "gym": 100
+        "math": 38,
+        "science": 42,
+        "english": 56,
+        "gym": 100,
+        "gender": "F"
     },
     "Jane": {
         "math": 100,
         "science": 100,
         "english": 100,
-        "gym": 60
+        "gym": 60,
+        "gender": "F"
+    },
+    "Mat": {
+        "math": 80,
+        "science": 93,
+        "english": 50,
+        "gym": 60,
+        "gender": "M"
+    },
+    "Steve": {
+        "math": 75,
+        "science": 60,
+        "english": 80,
+        "gym": 97,
+        "gender": "M"
+    },
+    "Alice": {
+        "math": 82,
+        "science": 83,
+        "english": 76,
+        "gym": 81,
+        "gender": "F"
     }
 }
