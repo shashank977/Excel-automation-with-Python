@@ -1,1 +1,1 @@
-Python script to load the json data into the excel file and adding 'Percent' and 'Barchart'.
+Python script to transform json data into the excel file and adding 'Percent' and 'Barchart'.
